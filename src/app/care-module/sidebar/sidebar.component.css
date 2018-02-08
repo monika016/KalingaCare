@@ -1,0 +1,24 @@
+.sidebar_container{
+    width: 200px;
+    height: 500px;
+    display: inline-block;
+    background-color: rgba(34 ,21, 151, .8);
+}
+ul{
+list-style: none;
+color: white;
+margin-left: 0px;
+
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    text-decoration: none;
+}
+.side-blocks{
+    padding: 15px;
+
+}

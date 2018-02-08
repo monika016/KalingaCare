@@ -1,0 +1,11 @@
+.container-fluid
+{
+    background-color: lightblue;
+    border-color: rgba(34, 21, 151, .8);
+}
+.heading{
+    font-size: 29px;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
